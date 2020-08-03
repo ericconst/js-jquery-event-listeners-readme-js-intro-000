@@ -1,4 +1,8 @@
-//define functions here
+function getIn(){
+  $('p').on('click', function(){
+    alert('Hey!')
+})
+}
 
 $(document).ready(function(){
 
